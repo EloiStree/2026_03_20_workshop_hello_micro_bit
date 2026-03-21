@@ -1,5 +1,7 @@
 # Do it yourself
 
+[🎥](https://youtu.be/jsYthLYksqA): https://youtu.be/jsYthLYksqA
+
 ``` gdscript
 class_name MicroBitChangeLedColorWithSignal
 extends Node3D
