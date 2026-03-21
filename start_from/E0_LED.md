@@ -1,3 +1,4 @@
+# Do it yourself
 
 ``` gdscript
 class_name MicroBitChangeLedColorWithSignal
@@ -48,6 +49,25 @@ func set_color_red_with_0_to_9_char(text_with_a_0_9:String):
   # TODO
 		
 	```
-		
+
+
+
+``` gdscript
+class_name MicroBitSetMeshInstanceColor3D
+extends Node
+
+@export var to_affect: MeshInstance3D = null
+@export var duplicate_material_at_ready: bool = true
+
+func _ready() -> void:
+	if to_affect == null:
+  		# TODO
+	
+	if duplicate_material_at_ready:
+  		# TODO
+
+func set_color_of_the_mesh_material(new_color: Color):
+  	# TODO
+```
 	
 	
