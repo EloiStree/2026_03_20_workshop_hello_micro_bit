@@ -1,4 +1,4 @@
-# 2026_03_20_workshop_hello_micro_bit
+
 Let’s learn to create a MicroBit for Godot XR, from your first ‘Hello World’ to rotation and Godot XR snapping.
 
 - Creer un led avec un script pour changer la couleur [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit#103e56528e9f722b197b621eaf7b78569963ac0e)
