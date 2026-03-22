@@ -22,13 +22,23 @@
   * Animation dans Godot
   * With Collision for future finger touch
 * **Pins** Du Micro:Bit et class en Godot 
-* Design pattern de Facade pour notre Micro:Bit ? 
+* Design pattern de Facade pour notre Micro:Bit ?
+* Transformer un project Godot en addons git.
+
+**Nouveau depart**:
+> On a un Micro:bit avec un facade 🫡.   
+-  Regardons ou on en est niveau de GDScrip [📕👁️](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
+-  Regardons ou on en est en C# ou en Rust
+
 
 Une fois le Micro:bit fait hors de la VR:
 * Faire un Cube dans le casque [🎥](https://www.youtube.com/watch?v=yMFC_DTZ0fQ)
 * C est quoi un casque VR ? [🎥](https://www.youtube.com/watch?v=tweBgb79VyE&t=292s)
 * Allons plus loin dans ce qu'est la VR en general [🎥](https://github.com/EloiStree/HelloOneDayGodotXR/tree/main)
 * Pratiquons Godot XR Tools [🎥](https://github.com/EloiStree/HelloGodotXR/issues/25)
+  * Pick
+  * Snap 
+
 ---------------
 
 
