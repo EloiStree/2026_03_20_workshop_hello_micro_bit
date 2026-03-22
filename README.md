@@ -18,7 +18,7 @@
   * Area3D et entered exited [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#b6d4fce5317db19a8029eb6a166a9a338dfede8e)
     * Layer vs Group vs Tag Script [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#9d12e11087c3a35f9c7ca3aff71f3f9ac217195f)
   * **.svg** pour notre Micro:Bit et ... [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#356a22664ee4016f28b99a15702bec97d135292e)
-* ... Fusion🔥 [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#356a22664ee4016f28b99a15702bec97d135292e)
+* ... Fusion 😋🔥 [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#356a22664ee4016f28b99a15702bec97d135292e)
 * **Les Dictionaires** avec les "Micro:bit Image"
 * **Array2D Shift:** Left, Down, Up , Right
 * Input for more ease
