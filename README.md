@@ -5,7 +5,8 @@
 * Avant l'atelier :
   * Faire le tutoriel de Brackeys sur la 2D [🎥](https://www.youtube.com/watch?v=LOhfqjmasi0)  
   * Pratiquer un peu Git et GitHub pour connaître les bases. [🐙](https://github.com/EloiStree/HelloGit/issues)
-  * Jetez un coup d'oeil à la doc de GDScript [📕👁️](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)   
+  * Jetez un coup d'oeil à la doc de GDScript [📕👁️](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
+  * Un jeu, c'est des cubes et des ronds... C'est quoi un cube ? [🎥🐷](https://youtu.be/fT_yVg7_ECg?t=6) 
 * Allons faire un simple cube pour le fun d’apprendre Godot [🎥](https://www.youtube.com/watch?v=tbfzr3zpOBc)  
 * **Créer** une LED avec un script pour changer la couleur [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit#103e56528e9f722b197b621eaf7b78569963ac0e) [🎥](https://www.youtube.com/watch?v=jsYthLYksqA&t=46s) [📝](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/blob/main/start_from/E0_LED.md)
 * **Sauver le projet** avec Git [🎥](https://www.youtube.com/watch?v=OgYPy7lx0Ro)
