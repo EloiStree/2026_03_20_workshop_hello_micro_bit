@@ -1,11 +1,30 @@
 
 **Let’s learn to create a Micro:bit for Godot XR, from your first ‘Hello World’ to rotation and Godot XR snapping.**
-
+* Avant l'atelier:
+  * Faire le tutorial de Brackeys sur la 2D [🎥](https://www.youtube.com/watch?v=LOhfqjmasi0)
+  * Pratiquer un peu Git et GitHub pour connaitre les bases. [🐙](https://github.com/EloiStree/HelloGit/issues)
+* Allons faire un simple cube pour le fun d apprendre Godot [🎥](https://www.youtube.com/watch?v=tbfzr3zpOBc) 
 * **Créer** une LED avec un script pour changer la couleur [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit#103e56528e9f722b197b621eaf7b78569963ac0e) [🎥](https://www.youtube.com/watch?v=jsYthLYksqA&t=46s) [📝](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/blob/main/start_from/E0_LED.md)
 * **Sauver le projet** avec Git [🎥](https://www.youtube.com/watch?v=OgYPy7lx0Ro)
 * **Créer un tableau de LED 5x5** avec la scène de LED [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit#c9bd120a0b8e7554180fdbd6058c06cf72b16a36) [🎥](https://youtu.be/Tq3iMY05yEE)
 [📝](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/blob/main/start_from/E3_ARRAY.md)
+* **Les Dictionaires avec les "Micro:bit Image"
+* **Array2D Shift Left, Down, Up , Right
+* **Button A et B**
+  * Un Script et une Scene
+  * Input Raw
+  * Input Map
+  * With Mouse for debug
+  * Animation dans Godot
+  * With Collision for future finger touch
+* **Pins** Du Micro:Bit et class en Godot 
+* Design pattern de Facade pour notre Micro:Bit ? 
 
+Une fois le Micro:bit fait hors de la VR:
+* Faire un Cube dans le casque [🎥](https://www.youtube.com/watch?v=yMFC_DTZ0fQ)
+* C est quoi un casque VR ? [🎥](https://www.youtube.com/watch?v=tweBgb79VyE&t=292s)
+* Allons plus loin dans ce qu'est la VR en general [🎥](https://github.com/EloiStree/HelloOneDayGodotXR/tree/main)
+* Pratiquons Godot XR Tools [🎥](https://github.com/EloiStree/HelloGodotXR/issues/25)
 ---------------
 
 
