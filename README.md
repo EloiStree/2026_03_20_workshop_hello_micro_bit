@@ -10,6 +10,7 @@
 * **Sauver le projet** avec Git [🎥](https://www.youtube.com/watch?v=OgYPy7lx0Ro)
 * **Créer un tableau de LED 5x5** avec la scène de LED [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit#c9bd120a0b8e7554180fdbd6058c06cf72b16a36) [🎥](https://youtu.be/Tq3iMY05yEE)
 [📝](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/blob/main/start_from/E3_ARRAY.md)
+* **.glb** pour notre Micro:Bit. 
 * **Les Dictionaires** avec les "Micro:bit Image"
 * **Array2D** Shift: Left, Down, Up , Right
 * **Button A et B**
