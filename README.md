@@ -17,6 +17,7 @@
 * **Array2D** Shift: Left, Down, Up , Right
 * **Button A et B**
   * Un Script et une Scene [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#ae27e5571bee337a4c3ca35a6a6261cbdfa13937)
+  * Area3D et input_event
   * Input Raw
   * Input Map
   * With Mouse for debug
