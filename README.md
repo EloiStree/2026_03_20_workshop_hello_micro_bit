@@ -1,3 +1,4 @@
+🎥: Youtube - 🐙: GitHub  - 💾: Commit de solution  - 📝: Faites-le vous-même     
 
 **Let’s learn to create a Micro:bit for Godot XR, from your first ‘Hello World’ to rotation and Godot XR snapping.**
 * Avant l'atelier :
