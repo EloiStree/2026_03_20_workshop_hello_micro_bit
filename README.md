@@ -30,8 +30,8 @@
 
 **Nouveau depart**:
 > On a un Micro:bit avec un facade 🫡.   
--  Regardons ou on en est niveau de GDScrip [📕👁️](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
--  Regardons ou on en est en C# ou en Rust
+-  Regardons ou on en est niveau de GDScript [📕👁️](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
+-  Regardons ou on en est en C# , ou en Rust
 
 
 Une fois le Micro:bit fait hors de la VR:
