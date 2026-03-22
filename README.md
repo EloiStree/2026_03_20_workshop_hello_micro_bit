@@ -1,6 +1,7 @@
 > 🎥: Youtube | 🐙: GitHub  | 💾: Commit de solution  | 📝: Faites-le vous-même     
 
-**Let’s learn to create a Micro:bit for Godot XR, from your first ‘Hello World’ to rotation and Godot XR snapping.**
+**Apprendre à créer un Micro:Bit puis l'utiliser avec Godot XR Tools**
+
 * Avant l'atelier :
   * Faire le tutoriel de Brackeys sur la 2D [🎥](https://www.youtube.com/watch?v=LOhfqjmasi0)  
   * Pratiquer un peu Git et GitHub pour connaître les bases. [🐙](https://github.com/EloiStree/HelloGit/issues)   
