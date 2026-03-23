@@ -1,5 +1,8 @@
 > 🎥: Youtube | 🐙: GitHub  | 💾: Commit de solution  | 📝: Faites-le vous-même | 📕: Manuel    
 
+> Need your help to make CC model of the Keyestudio:  
+> https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor   
+
 **Apprendre à créer un Micro:Bit puis l'utiliser avec Godot XR Tools**
 
 * Avant l'atelier :
@@ -43,6 +46,7 @@ Une fois le Micro:bit fait hors de la VR:
 * Pratiquons Godot XR Tools [🎥](https://github.com/EloiStree/HelloGodotXR/issues/25)
   * Pick
   * Snap 
+
 
 ---------------
 
