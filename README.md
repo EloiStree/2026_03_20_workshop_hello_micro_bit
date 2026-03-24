@@ -18,13 +18,13 @@
 * **Button A et B Basic**
   * Un Script et une Scene [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#ae27e5571bee337a4c3ca35a6a6261cbdfa13937) [🎥](https://youtu.be/rpCgu9PUcPM)
   * Area3D et input_event [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#b6d4fce5317db19a8029eb6a166a9a338dfede8e) [🎥](https://youtu.be/LmxfQG9vquw)
-  * Area3D et entered exited [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#b6d4fce5317db19a8029eb6a166a9a338dfede8e) 
+  * Area3D et entered exited [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#b6d4fce5317db19a8029eb6a166a9a338dfede8e) [🎥](https://youtu.be/1d7KVKP9QE0)
     * Layer vs Group vs Tag Script [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#9d12e11087c3a35f9c7ca3aff71f3f9ac217195f)
   * **.svg** pour notre Micro:Bit et ... [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#356a22664ee4016f28b99a15702bec97d135292e)
 * ... Fusion 😋🔥 [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#356a22664ee4016f28b99a15702bec97d135292e)
 * De fait... C est compliquer le modding ?
   * Un premier Hello World `load(path)` [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#6ba837b8c35ad3d7b0d661866df29afc2e08d160)  [🐙](https://github.com/EloiStree/HelloGodotModding/blob/main/README.md) 
-* **Les Dictionaires** avec les "Micro:bit Image"
+* **Les Dictionaires** avec les "Micro:bit Image"🎥
 * **Array2D Shift:** Left, Down, Up , Right
 * Input for more ease
   * Input Raw
