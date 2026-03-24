@@ -16,7 +16,7 @@
 * **Créer un tableau de LED 5x5** avec la scène de LED [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit#c9bd120a0b8e7554180fdbd6058c06cf72b16a36) [🎥](https://youtu.be/Tq3iMY05yEE)
 [📝](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/blob/main/start_from/E3_ARRAY.md)
 * **Button A et B Basic**
-  * Un Script et une Scene [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#ae27e5571bee337a4c3ca35a6a6261cbdfa13937)
+  * Un Script et une Scene [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#ae27e5571bee337a4c3ca35a6a6261cbdfa13937) [🎥](https://youtu.be/rpCgu9PUcPM)
   * Area3D et input_event [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#b6d4fce5317db19a8029eb6a166a9a338dfede8e)
   * Area3D et entered exited [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#b6d4fce5317db19a8029eb6a166a9a338dfede8e)
     * Layer vs Group vs Tag Script [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#9d12e11087c3a35f9c7ca3aff71f3f9ac217195f)
