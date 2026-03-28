@@ -25,7 +25,7 @@
   * **.svg** pour notre Micro:Bit et ... [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#356a22664ee4016f28b99a15702bec97d135292e) [🎥](https://youtu.be/yXuJRLHk99U)
 * ... Fusion 😋🔥 [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#356a22664ee4016f28b99a15702bec97d135292e)  [🎥](https://youtu.be/yXuJRLHk99U)
 * De fait... C est compliquer le modding ?
-  * Un premier Hello World `load(path)` [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#3251f03a4f2782268f0494e3c0b73dbc6a5b2468)  [🐙](https://github.com/EloiStree/HelloGodotModding/blob/main/README.md) 
+  * Un premier Hello World `load(path)` [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit.git#3251f03a4f2782268f0494e3c0b73dbc6a5b2468) [🎥](https://youtu.be/RA2AoSgYbLA) [🐙](https://github.com/EloiStree/HelloGodotModding/blob/main/README.md) 
 * **Les Dictionaires** avec les "Micro:bit Image"🎥
 * **Array2D Shift:** Left, Down, Up , Right
 * Input for more ease
