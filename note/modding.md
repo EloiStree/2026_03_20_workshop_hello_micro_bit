@@ -1,42 +1,18 @@
-extends Node
-@export var button_a:bool = false
-@export var button_b:bool = false
-@export var leds_percent_5x5:Array[float] =[]
-
-
-
-# IMPLEMENT IF YOU NEED	
-# func mod_in_set_leds_array_changed(is_pressing:Array[float]):
-# func mod_in_set_button_a_changed(is_pressing:bool):
-# func mod_in_set_button_b_changed(is_pressing:bool):
-# func mod_in_on_a_value_changed()
-
-func _ready()->void:
-	# print("Hello World")
-	pass
-
-func _process(delta:float)->void:
-	# print("DELTA:",delta)
-	pass
-
-
-
-
-
-
-
-
-
-
-
+``` gdscrip
 
 extends Node
+
+signal mod_out_request_integer_action(integer_action:int)
+signal mod_out_request_text_action(text_action:text)
+signal mod_out_request_call_method_wihout_params(method_name:String)
+signal mod_out_request_call_method_wih_one_parameter(method_name:String, params)
+signal mod_out_request_call_method_wih_parameters(method_name:String, Array[params])
 
 signal mod_out_set_leds_array(array:Array[float])
 signal mod_out_set_1d_led_to_percent(index_0_24:int, percent:float)
 signal mod_out_set_1d_led_to_char_0_9(index_0_24:int,char_value:String)
-signal mod_out_set_1d_led_to_percent(x_left_right:int,y_top_down:int, percent:float)
-signal mod_out_set_1d_led_to_char_0_9(x_left_right:int,y_top_down:int, char_value:String)
+signal mod_out_set_2d_led_to_percent(x_left_right:int,y_top_down:int, percent:float)
+signal mod_out_set_2d_led_to_char_0_9(x_left_right:int,y_top_down:int, char_value:String)
 
 @export var button_a:bool = false
 @export var button_b:bool = false
@@ -44,15 +20,13 @@ signal mod_out_set_1d_led_to_char_0_9(x_left_right:int,y_top_down:int, char_valu
 
 # Implementable:
 ## Any value of the device was changed or updated.
-# func mod_in_a_value_changed()
+# func mod_in_new_data_received()
 ## Received update value of the array (changed or not)
-# func mod_in_leds_array_updated(is_pressing:Array[float]):
-
+# func mod_in_set_leds_array(is_pressing:Array[float]):
 ## Button A changed of state
-# func mod_in_button_a_changed(is_pressing:bool):
-
+# func mod_in_set_button_a(is_pressing:bool):
 ## Button A changed of state
-# func mod_in_button_b_changed(is_pressing:bool):
+# func mod_in_set_button_b(is_pressing:bool):
 
 
 
@@ -117,5 +91,4 @@ func set_button_b_state(is_pressing:bool):
 #    node.some_signal.connect(_on_some_signal)
 
 
-
-"""
+``` gdscrip
