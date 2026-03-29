@@ -266,3 +266,15 @@ https://www.kiwi-electronics.com/nl/bbc-microbit-v2-2-go-bundel-10260
 https://www.amazon.com.be/-/en/KEYESTUDIO-Microbit-Sensor-Starter-except/dp/B07GSVHWNS/    
 
 
+
+
+
+
+-------------------
+
+# PINS
+
+[<img width="720" height="699" alt="image" src="https://github.com/user-attachments/assets/a1321e93-871b-4e20-9417-e9bc6e8a237c" />](https://microbit-micropython.readthedocs.io/en/latest/pin.html)
+https://microbit-micropython.readthedocs.io/en/latest/pin.html
+
+
