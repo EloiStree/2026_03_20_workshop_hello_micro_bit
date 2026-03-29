@@ -50,6 +50,15 @@ Une fois le Micro:bit fait hors de la VR:
   * Snap 
 
 
+Exercice: 
+- Pratiquez les rotations:
+  - https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/2
+    - Simuler le tilt face vers le haut
+    - Simuler le tilt en format volant de voiture
+    - Simuler un jeu de dee avec le Micro:Bit
+    - Simuler un accelerometer en Vector3
+  - Simuler un compass vers un faux nord en VR.  
+
 ---------------
 
 
