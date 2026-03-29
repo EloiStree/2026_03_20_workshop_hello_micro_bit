@@ -36,7 +36,35 @@ class_name MicroBitModdingInterfaceToNode
 extends Node
 
 @export var node_to_affect:Node
+func set_node_to_affect(node:Node):
+	node_to_affect = node
 
+
+
+func set_variable_to(variable_name:String, set_method_name:String, value):
+	if node_to_affect!=null and node_to_affect.has_method(set_method_name):
+		node_to_affect.call(set_method_name,value)
+	if node_to_affect and variable_name in node_to_affect:
+		node_to_affect.set(variable_name,value)
+	notify_a_value_changed()
+
+func call_methode_without_params(methode_name:String):
+	if node_to_affect and node_to_affect.has_method(methode_name):
+		node_to_affect.call(methode_name)
+
+func call_methode_with_one_param(methode_name:String, untyped_params):
+	if node_to_affect and node_to_affect.has_method(methode_name):
+		node_to_affect.call(methode_name, untyped_params)
+
+func call_variable_with_one_param(methode_name:String, untyped_params):
+	if node_to_affect and variable_name in node_to_affect:
+		node_to_affect.set(variable_name,value)
+			
+@export var name_of_call_for_new_data_received ="mod_in_new_data_received"
+func notify_a_value_changed():
+	call_methode_without_params(name_of_call_a_value_changed)	
+	
+	
 @export_group("Variable")
 @export var name_of_var_leds_percent_array ="leds_percent_5x5"
 @export var name_of_var_button_a ="button_a"
@@ -45,27 +73,9 @@ extends Node
 @export var name_of_call_leds_changed ="mod_in_set_leds_array_changed"
 @export var name_of_call_set_button_a ="mod_in_set_button_a_changed"
 @export var name_of_call_set_button_b ="mod_in_set_button_b_changed"
-@export var name_of_call_a_value_changed ="mod_in_on_a_value_changed"
 
-func set_node_to_affect(node:Node):
-	node_to_affect = node
-	
 
-func set_variable_to(variable_name:String, set_method_name:String, value):
-	if node_to_affect!=null and node_to_affect.has_method(set_method_name):
-		node_to_affect.call(set_method_name,value)
-	if node_to_affect and variable_name in node_to_affect:
-		node_to_affect.set(variable_name,value)
-	notify_a_value_changed()
-	
-	
-func call_methode_without_params(methode_name:String):
-	if node_to_affect and node_to_affect.has_method(methode_name):
-		node_to_affect.call(methode_name)	
-			
 
-func notify_a_value_changed():
-	call_methode_without_params(name_of_call_a_value_changed)	
 	
 	
 func set_leds_percent_with_random_5x5():
