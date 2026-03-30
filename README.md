@@ -1,7 +1,6 @@
 > 🎥: Youtube | 🐙: GitHub  | 💾: Commit de solution  | 📝: Faites-le vous-même | 📕: Manuel    
 
-> Need your help to make CC model of the Keyestudio:  
-> https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor   
+
 
 **Apprendre à créer un Micro:Bit puis l'utiliser avec Godot XR Tools**
 
@@ -59,6 +58,11 @@ Exercice:
     - Simuler un accelerometer en Vector3
   - Simuler un compass vers un faux nord en VR.  
 
+
+Git Additionnel:
+- Croco Color:  https://github.com/EloiStree/2026_03_30_gdp_croco_color_xr.git
+- Micro Bit Keyestudio Sensor https://github.com/EloiStree/2026_03_23_gdp_micro_bit_sensor
+  
 ---------------
 
 
