@@ -1,8 +1,9 @@
 > 🎥: Youtube | 🐙: GitHub  | 💾: Commit de solution  | 📝: Faites-le vous-même | 📕: Manuel    
 
 
-> Quatre semaine en une ligne pour la formation en cours:
-`Brackey 2D > Quest3 2D App > Godot XR Tool > Grab + Snap > Led > Button > Mod > Sensor > Group work > Jam`
+> Quatre semaine en une ligne pour la formation en cours:  
+`Brackey 2D > Quest3 2D App > Godot XR Tool > Grab + Snap > Led > Button > Mod > Sensor > Group work > Jam`  
+> Cours: https://github.com/EloiStree/2026_05_11_workshop_hello_godot_xr/blob/main/README.md  
 
 
 **Apprendre à créer un Micro:Bit puis l'utiliser avec Godot XR Tools**
