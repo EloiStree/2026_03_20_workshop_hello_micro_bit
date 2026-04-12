@@ -90,6 +90,10 @@ On ignore le câblage et la réalité de l’électricité dans cet exercice.
 Jouons avec les LED et relions les pins du micro:bit en pourcentage à des senseurs et moteurs eux aussi en pourcentage.
 
 
+**Challenge**:
+- Prendre en main le plug-in: Godot Aerodynamic Physics
+  - https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor/issues/107 
+
 
 **Nouveau depart**:
 > On a un Micro:bit avec un facade 🫡.   
