@@ -16,6 +16,8 @@
   * Rotation et Translation... bougeons un drone Unity3D a Godot 🛸 => [Soon]
   * Des cubes et des ronds... prototypons des Micro Bit Sensor en Group avec Git 🧊 => [Soon]
 * Allons faire un simple cube pour le fun d’apprendre Godot [🎥](https://www.youtube.com/watch?v=tbfzr3zpOBc)  
+
+**Chapitre 1: Creer le Micro:Bit**
 * **Créer** une LED avec un script pour changer la couleur [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit#103e56528e9f722b197b621eaf7b78569963ac0e) [🎥](https://www.youtube.com/watch?v=jsYthLYksqA&t=46s) [📝](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/blob/main/start_from/E0_LED.md)
 * **Sauver le projet** avec Git [🎥](https://www.youtube.com/watch?v=OgYPy7lx0Ro)
 * **Créer un tableau de LED 5x5** avec la scène de LED [💾](https://github.com/EloiStree/2026_03_20_godot_hello_micro_bit#c9bd120a0b8e7554180fdbd6058c06cf72b16a36) [🎥](https://youtu.be/Tq3iMY05yEE)
@@ -30,14 +32,61 @@
 * De fait... C est compliquer le modding ?
   * Un premier Hello World `load(path)` [💾](https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit.git#3c63b1667446e72808ef4c70e806c5e2eb426cc9) [~🎥 V0~](https://youtu.be/RA2AoSgYbLA) [🎥 V1](https://youtu.be/ircNOqSR-Hs) [🐙](https://github.com/EloiStree/HelloGodotModding/blob/main/README.md)
   * Modder avec call method , set variable et connect signal [🎥](https://youtu.be/mRmOX5L-EvA)
-* **Les Dictionaires** avec les "Micro:bit Image"🎥
-* **Array2D Shift:** Left, Down, Up , Right
-* Input for more ease
-  * Input Raw
-  * Input Map
-* **Pins** Du Micro:Bit et class en Godot 
-* Design pattern de Facade pour notre Micro:Bit ?
-* Transformer un project Godot en addons git.
+
+> ⌛ Pour aller plus loin dans l'exercice, cela demande un trop gros niveau de programmation.
+> Je me permets donc de coder le reste. On utilisera donc le Micro:bit que je vous donnerai à disposition pour la suite:
+> `git clone https://github.com/EloiStree/2026_03_20_gdp_hello_micro_bit.git addons/2026_03_20_gdp_hello_micro_bit`
+> Je vous invite, comme challenge, à faire un mini-jeu avec ce que l'on a créé jusque ici, sans les pins et les senseurs.
+
+
+**Chapitre 2 : Godot XR et Toolkit**
+
+* [ ] Comment setup le projet pour la XR ?
+  * [ ] Refaire les étapes sur le casque ?
+* [ ] Écouter les inputs des manettes ?
+  * [ ] Sur PC ?
+  * [ ] Sur Quest ?
+  * [ ] Écouter la manette "Xbox" ?
+* [ ] Interagir sans boîte à outils ?
+  * [ ] Toucher des objets ?
+  * [ ] Viser un objet Godot Spring ?
+    * [ ] Challenge : temps d’interaction ?
+* [ ] La flemme, allons sur Godot XR Toolkit
+  * [ ] Comment l’installer ?
+  * [ ] Attraper un objet ?
+  * [ ] Snapper un objet ?
+  * [ ] D’autres interactions ?
+  * [ ] Snapper le Micro:bit ?
+    * [ ] Ouvrir la doc sur une page web si "?" est touché ?
+  * [ ] Le clipboard sur Quest pour charger du code ?
+
+    * [ ] Créer un bouton Clipboard → Micro:bit ?
+
+
+**Chapitre 3 : Créer des boîtes à outils**
+
+Je liste ici une centaine de senseurs et objets IoT avec de la documentation :
+
+* [https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor](https://github.com/EloiStree/2026_03_23_doc_micro_bit_sensor)
+
+Vous pouvez trouver mes solutions ici :
+
+* [https://github.com/EloiStree/2026_04_11_gdp_learn_with_sensors](https://github.com/EloiStree/2026_04_11_gdp_learn_with_sensors)
+
+Nous allons pratiquer deux concepts en groupe :
+
+* Le grayboxing par contribution (fork) sur GitHub
+* La création de boîtes à outils en solitaire (addons)
+
+
+**Chapitre 4 : Utiliser le Micro:bit**
+
+On a des senseurs et un micro:bit fonctionnel.
+Essayons de faire des mini-jeux pour apprendre l’électronique.
+On ignore le câblage et la réalité de l’électricité dans cet exercice.
+
+Jouons avec les LED et relions les pins du micro:bit en pourcentage à des senseurs et moteurs eux aussi en pourcentage.
+
 
 **Nouveau depart**:
 > On a un Micro:bit avec un facade 🫡.   
@@ -54,7 +103,7 @@ Une fois le Micro:bit fait hors de la VR:
   * Snap 
 
 
-Exercice: 
+Exercice:  
 - Pratiquez les rotations:
   - https://github.com/EloiStree/2026_03_20_workshop_hello_micro_bit/issues/2
     - Simuler le tilt face vers le haut
@@ -143,6 +192,7 @@ Une branche vide avec le minimum nécessaire se trouve ici :
 
 Vidéos step-by-step ici :
 [https://www.youtube.com/@EloiTeaching/search?query=Micro](https://www.youtube.com/@EloiTeaching/search?query=Micro)
+
 
 
 
@@ -276,9 +326,6 @@ https://www.amazon.com.be/-/en/KEYESTUDIO-Microbit-Sensor-Starter-except/dp/B07G
 
 
 
-
-
-
 -------------------
 
 # PINS
@@ -286,4 +333,10 @@ https://www.amazon.com.be/-/en/KEYESTUDIO-Microbit-Sensor-Starter-except/dp/B07G
 [<img width="720" height="699" alt="image" src="https://github.com/user-attachments/assets/a1321e93-871b-4e20-9417-e9bc6e8a237c" />](https://microbit-micropython.readthedocs.io/en/latest/pin.html)   
 https://microbit-micropython.readthedocs.io/en/latest/pin.html   
 
+
+
+
+# Linked Package
+
+- CNC Shader: https://github.com/EloiStree/2026_04_12_gdp_vibed_laser_cut_shader
 
