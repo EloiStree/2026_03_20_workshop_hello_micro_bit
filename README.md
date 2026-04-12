@@ -41,8 +41,13 @@
 
 **Chapitre 2 : Godot XR et Toolkit**
 
-* [ ] Comment setup le projet pour la XR ?
-  * [ ] Refaire les étapes sur le casque ?
+* Allons plus loin dans ce qu'est la VR en general 
+* Pratiquons Godot XR Tools 
+* 
+* [ ] C'est quoi un casque VR? [🎥](https://www.youtube.com/watch?v=tweBgb79VyE&t=292s)
+* [ ] Comment setup le projet pour la XR sur PC ? 
+  * [ ] Refaire les étapes sur le casque ? [🎥](https://www.youtube.com/watch?v=yMFC_DTZ0fQ)
+  * [ ] Parlons XR et ADB ? [🎥](https://github.com/EloiStree/HelloOneDayGodotXR/tree/main)
 * [ ] Écouter les inputs des manettes ?
   * [ ] Sur PC ?
   * [ ] Sur Quest ?
@@ -51,7 +56,7 @@
   * [ ] Toucher des objets ?
   * [ ] Viser un objet Godot Spring ?
     * [ ] Challenge : temps d’interaction ?
-* [ ] La flemme, allons sur Godot XR Toolkit
+* [ ] La flemme, allons sur Godot XR Toolkit [🎥](https://github.com/EloiStree/HelloGodotXR/issues/25)
   * [ ] Comment l’installer ?
   * [ ] Attraper un objet ?
   * [ ] Snapper un objet ?
@@ -100,14 +105,6 @@ Jouons avec les LED et relions les pins du micro:bit en pourcentage à des sense
 -  Regardons ou on en est niveau de GDScript [📕👁️](https://docs.godotengine.org/en/stable/tutorials/scripting/gdscript/gdscript_basics.html)
 -  Regardons ou on en est en C# , ou en Rust
 
-
-Une fois le Micro:bit fait hors de la VR:
-* Faire un Cube dans le casque [🎥](https://www.youtube.com/watch?v=yMFC_DTZ0fQ)
-* C est quoi un casque VR ? [🎥](https://www.youtube.com/watch?v=tweBgb79VyE&t=292s)
-* Allons plus loin dans ce qu'est la VR en general [🎥](https://github.com/EloiStree/HelloOneDayGodotXR/tree/main)
-* Pratiquons Godot XR Tools [🎥](https://github.com/EloiStree/HelloGodotXR/issues/25)
-  * Pick
-  * Snap 
 
 
 Exercice:  
