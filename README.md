@@ -73,9 +73,12 @@ Vous pouvez trouver mes solutions ici :
 * [https://github.com/EloiStree/2026_04_11_gdp_learn_with_sensors](https://github.com/EloiStree/2026_04_11_gdp_learn_with_sensors)
 
 Nous allons pratiquer deux concepts en groupe :
-
 * Le grayboxing par contribution (fork) sur GitHub
 * La création de boîtes à outils en solitaire (addons)
+  
+Dans notre projet est ajouté cet addon de boîte à outils que j’ai fait pour l’occasion :   
+https://github.com/EloiStree/2026_04_12_gdp_vibed_laser_cut_shader  
+_Essayez de faire des projets open source qui seraient fabricables en FabLab._  
 
 
 **Chapitre 4 : Utiliser le Micro:bit**
@@ -85,6 +88,7 @@ Essayons de faire des mini-jeux pour apprendre l’électronique.
 On ignore le câblage et la réalité de l’électricité dans cet exercice.
 
 Jouons avec les LED et relions les pins du micro:bit en pourcentage à des senseurs et moteurs eux aussi en pourcentage.
+
 
 
 **Nouveau depart**:
