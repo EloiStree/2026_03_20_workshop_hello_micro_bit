@@ -41,9 +41,6 @@
 
 **Chapitre 2 : Godot XR et Toolkit**
 
-* Allons plus loin dans ce qu'est la VR en general 
-* Pratiquons Godot XR Tools 
-* 
 * [ ] C'est quoi un casque VR? [🎥](https://www.youtube.com/watch?v=tweBgb79VyE&t=292s)
 * [ ] Comment setup le projet pour la XR sur PC ? 
   * [ ] Refaire les étapes sur le casque ? [🎥](https://www.youtube.com/watch?v=yMFC_DTZ0fQ)
