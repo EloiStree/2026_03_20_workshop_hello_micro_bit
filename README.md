@@ -59,7 +59,6 @@
   * [ ] Snapper le Micro:bit ?
     * [ ] Ouvrir la doc sur une page web si "?" est touché ?
   * [ ] Le clipboard sur Quest pour charger du code ?
-
     * [ ] Créer un bouton Clipboard → Micro:bit ?
 
 
