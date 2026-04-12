@@ -2,6 +2,7 @@
 
 > 🎥: Youtube | 🐙: GitHub  | 💾: Commit de solution  | 📝: Faites-le vous-même | 📕: Manuel    
 
+Documentation sur le Micro:Bit: [awesome-microbit](https://github.com/carlosperate/awesome-microbit)     
 
 > Quatre semaine en une ligne pour la formation en cours:  
 `Brackey 2D > Quest3 2D App > Godot XR Tool > Grab + Snap > Led > Button > Mod > Sensor > Group work > Jam`  
