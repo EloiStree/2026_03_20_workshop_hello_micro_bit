@@ -9,6 +9,14 @@ Documentation sur le Micro:Bit: [awesome-microbit](https://github.com/carlospera
 > Cours: https://github.com/EloiStree/2026_05_11_workshop_hello_godot_xr/blob/main/README.md  
 
 
+**Bon example de l'exercice:**
+_Pour rester simple, on retire la notion electrique et simulation du reel._
+_On se concentre sur la partie movement, interface, code et couleur>_
+[<img width="1472" height="865" alt="image" src="https://github.com/user-attachments/assets/eb738099-b62b-4515-a193-a816061849e2" />](https://www.tinkercad.com/things/aK1n6Y1T55s-burn-led-with-microbit?sharecode=vaFWG8iLiEovNaQWSlKG_ofoQTag8nfgUkKnR3xYLDQ)  
+https://www.tinkercad.com/things/aK1n6Y1T55s-burn-led-with-microbit?sharecode=vaFWG8iLiEovNaQWSlKG_ofoQTag8nfgUkKnR3xYLDQ   
+
+
+
 **Apprendre à créer un Micro:Bit puis l'utiliser avec Godot XR Tools**
 
 * Avant l'atelier :
