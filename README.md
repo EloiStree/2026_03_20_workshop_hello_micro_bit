@@ -352,3 +352,9 @@ https://microbit-micropython.readthedocs.io/en/latest/pin.html
 
 - CNC Shader: https://github.com/EloiStree/2026_04_12_gdp_vibed_laser_cut_shader
 
+
+
+# Car battle
+
+[<img width="694" height="335" alt="image" src="https://github.com/user-attachments/assets/2b81df02-1117-462a-b9bc-8abe9a10192a" />](https://youtu.be/5pK59RrawkA?t=73)
+
