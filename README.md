@@ -351,7 +351,7 @@ https://microbit-micropython.readthedocs.io/en/latest/pin.html
 # Linked Package
 
 - CNC Shader: https://github.com/EloiStree/2026_04_12_gdp_vibed_laser_cut_shader
-
+- Drawable Drone: https://github.com/EloiStree/2024_08_05_gdp_uv_drawable_drones
 
 
 # Car battle
